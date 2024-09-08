@@ -1,0 +1,509 @@
+{
+  "praias": [
+    {
+      "id": 1,
+      "title": "Cachoeira do Bom Jesus",
+      "description": "A Praia da Cachoeira do Bom Jesus é destino certo de muitos moradores de Florianópolis e turistas durante o verão. Vizinha de Canasvieiras e de Ponta das Canas, a praia oferece um belo visual aliado a uma ampla rede de serviços de turismo e lazer. Hospedagem, restaurantes e comércio em geral garantem a comodidade de quem mora ou visita a região, fazendo com que não seja necessário se deslocar para outros lugares para encontrar o que se procura. As águas são calmas e a areia é boa para caminhadas e para a prática de esportes. Estas características fazem da praia um ambiente agradável para se divertir em família, com crianças e idosos.",
+      "zone": "Norte da Ilha",
+      "image": "./assets/db/praias/bom-jesus.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14166.607073818532!2d-48.448959242216716!3d-27.4177914700151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95274253dd92bccb%3A0x697fcb1a71e36fd6!2sPraia%20da%20Cachoeira%20do%20Bom%20Jesus!5e0!3m2!1spt-BR!2sbr!4v1724288743633!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 2,
+      "title": "Cacupé",
+      "description": "Banhado pelas águas calmas do canal da baía norte, Cacupé é um recanto ainda pouco explorado por turistas. A praia mistura a modernidade e o turismo com as tradições dos moradores nativos, que vivem da pesca artesanal e do cultivo de ostras. A praia não é muito visada para banho. Não se veem guarda-sóis, ambulantes ou pessoas passando o dia se bronzeando. É um local mais reservado, que atrai pelos agradáveis passeios pela orla, pela bela vista da Avenida Beira-mar Norte e das pontes, pela tranquilidade e pela gastronomia. Detalhe a reparar são as fachadas das casas de pescadores voltadas para a estrada e de costas para a vista do mar. Essencialmente residencial, o bairro é constituído de uma comunidade tranquila e silenciosa, com casas e restaurantes de alto padrão.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/cacupe.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7075.285320775363!2d-48.530384683109446!3d-27.542558704713798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952747a26b7598cf%3A0x5fb0ac429ee2e684!2sPraia%20do%20Cacup%C3%A9%20Grande!5e0!3m2!1spt-BR!2sbr!4v1724289228012!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 3,
+      "title": "Canasvieiras",
+      "description": "A Praia de Canasvieiras, ou balneário de Canasvieiras, se torna, durante o verão, um dos destinos mais movimentados da ilha. Está localizado na região norte, entre a Praia de Jurerê e a Praia da Cachoeira do Bom Jesus. As águas calmas e a infraestrutura da região fazem de Canasvieiras um local para passear em família ou com amigos. É a praia de Florianópolis preferida dos turistas do Cone Sul. Durante a alta temporada, Canasvieiras vira um verdadeiro recanto praiano para famílias e jovens argentinos, uruguaios e paraguaios. Por conta disso, muitos estabelecimentos oferecem serviços bilíngues, e não é difícil inclusive encontrar jornais argentinos. Nas ruas, placas escritas em espanhol e vendedores arriscando o idioma são comuns. Devido à grande infraestrutura, a Praia de Canasvieiras funciona como uma pequena cidade. Conta com serviços de saúde, polícia, supermercado e comércio.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/canasvieiras.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14165.463111943902!2d-48.46095424999999!3d-27.4267091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952743a1fbd4f689%3A0x3c0d57b319eb1f63!2sPraia%20de%20Canasvieiras!5e0!3m2!1spt-BR!2sbr!4v1724289371474!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 4,
+      "title": "Daniela",
+      "description": "A formação geográfica da Praia da Daniela impressiona por si só. É uma mini-península - uma ponta de areia com vegetação - que se estende para o mar, avançando sobre as águas. Uma comunidade onde residências de luxo se misturam com casas tradicionais e que conserva a tranquilidade de quem procura ficar longe da excessiva movimentação turística. É banhada pelas águas calmas e mornas da baía norte, perfeitas para quem frequenta a praia com crianças e idosos. A região conta com poucos serviços. Lá, o lazer é caminhar pela praia, pescar e desbravar as belezas naturais que o manguezal, principal formação vegetal da área, esconde. Badalação, festas e maior movimentação turística ficam em praias próximas, com fácil acesso de carro.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/daniela.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28324.597086579037!2d-48.55479823830786!3d-27.451364228791263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527459fff3095a7%3A0x5f17e262ba8a9ae0!2sPraia%20da%20Daniela!5e0!3m2!1spt-BR!2sbr!4v1724289418522!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 5,
+      "title": "Ingleses",
+      "description": "A Praia dos Ingleses é um dos destinos mais movimentados da Ilha de Santa Catarina durante o ano inteiro e, principalmente, no verão. Isso porque conta com grande infraestrutura que vai de serviços de hotéis na praia até um pequeno shopping center. Bares, shows, restaurantes, lanchonetes e o forte comércio garantem a diversão de famílias e jovens à noite, enquanto que durante o dia a praia é o local preferido. Ingleses é um dos principais destinos de turistas do Cone Sul. Por conta disso, muitos estabelecimentos oferecem serviços bilíngues e não é difícil encontrar jornais argentinos, casas de câmbio e lan houses.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/ingleses.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28328.829875696552!2d-48.40791173833916!3d-27.43487767940673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952769fc6bfe7f01%3A0xf8143f736603057c!2sPraia%20dos%20Ingleses!5e0!3m2!1spt-BR!2sbr!4v1724289450258!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 6,
+      "title": "Jurerê Internacional",
+      "description": "Após grandes investimentos em urbanização e preocupação ambiental, a Praia de Jurerê Internacional ganhou visibilidade no mundo inteiro. Já foi considerado The Place to Be pelo jornal The New York Times (2009); o destino mais valorizados do litoral brasileiro pelo Guia Exame de Investimentos Pessoais (2008); e a Praia do Ano pela revista Brazil Travel News (2007). O bairro é bem planejado, arborizado e limpo. As mansões que lá se encontram, além dos carros importados e da badalação, deram a Jurerê Internacional o apelido de Miami brasileira. Durante o verão, a praia vira sinônimo de gente jovem, bonita e rica. É comum ver helicópteros, Ferraris e iates chegando para as festas, que rolam nos beach clubs. Jurerê Internacional reúne restaurantes de luxo e alto padrão internacional, festas de música eletrônica, corpos esbeltos e os últimos lançamentos da moda.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/jurere-internacional.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28326.473915786984!2d-48.52856363832173!3d-27.44405517906406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952744f99745da11%3A0x5795884910647887!2sJurer%C3%AA%20Internacional%2C%20Florian%C3%B3polis%20-%20SC!5e0!3m2!1spt-BR!2sbr!4v1724289497947!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 7,
+      "title": "Jurerê Tradicional",
+      "description": "Atualmente, a praia de Jurerê está dividida entre dois bairros. O Jurerê conhecido como Tradicional e o Internacional, que ganhou esta denominação por um moderno empreendimento imobiliário que trouxe grandes mansões, estabelecimentos de luxo e casas de música eletrônica. Jurerê Tradicional conserva aspectos dos moradores mais antigos e da cultura local. É uma praia que abriga casas de verão de florianopolitanos e de famílias de outros estados que escolhem a ilha de Santa Catarina como local para passar as férias.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/jurere-trad.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.8644841535547!2d-48.49213318831617!3d-27.44233377623667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952744653ced1365%3A0xcd4df40f26a1675f!2sR.%20Prof.%20Manoel%20do%20Lago%20Almeida%20-%20Jurere%20Leste%2C%20Florian%C3%B3polis%20-%20SC%2C%2088053-555!5e0!3m2!1spt-BR!2sbr!4v1724289603450!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 8,
+      "title": "Lagoinha",
+      "description": "No extremo Norte da Ilha, a Lagoinha é uma pequena praia com característica de enseada, por ser protegida por costões, que abriga uma tradicional colônia de pescadores e oferece a seus visitantes águas geralmente quentes e calmas, além de um visual estonteante. A praia da Lagoinha é ideal para aqueles que desejam ter sossego, ficar longe da agitação e curtir a simplicidade das praias de Florianópolis. A região abriga poucas casas residenciais, muitas delas à beira da praia, poucos serviços de hotelaria e utilidades. Ao mesmo tempo, fica próxima de zonas que possuem forte infraestrutura para receber turistas.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/lagoinha.webp",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7084.990986919543!2d-48.42455275!3d-27.391467199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952742c18fc2da8b%3A0xeea1b4c3964a9f79!2sPraia%20da%20Lagoinha!5e0!3m2!1spt-BR!2sbr!4v1724289640758!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 9,
+      "title": "Ponta das Canas",
+      "description": "No extremo norte da ilha, entre as praias da Lagoinha e da Cachoeira de Bom Jesus, fica localizada a Praia de Ponta das Canas, um local de veraneio para muitos florianopolitanos e turistas. Ao mesmo tempo em que possui uma boa infraestrutura de serviços, hotéis e prédios modernos, a praia ainda guarda uma tradicional colônia de pescadores.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/ponta-das-canas.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14168.17353249462!2d-48.43839104222254!3d-27.405575970129284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952742e692a2dbb7%3A0x896cf05aa21e3cee!2sPraia%20da%20Ponta%20das%20Canas!5e0!3m2!1spt-BR!2sbr!4v1724289675230!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 10,
+      "title": "Praia Brava",
+      "description": "Águas límpidas, gente bonita na areia, música, eventos e uma comunidade ativa para cuidar das questões da região. Este é o universo que envolve a Praia Brava, que ganha destaque no verão de Florianópolis pela boa infraestrutura da praia e da orla, além, é claro, do visual privilegiado. Nos meses de verão, muitos jovens em busca de diversão ocupam as areias da praia, pois é lá que se realizam eventos com DJs e bandas. Sempre há música e lugares que servem bebida e petiscos.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/Praia-Brava-Floripa.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28335.34495359523!2d-48.438658188387436!3d-27.40948383035567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527428e09174099%3A0x2c0a84cb50990e94!2sPraia%20Brava!5e0!3m2!1spt-BR!2sbr!4v1724289704743!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 11,
+      "title": "Praia do Forte",
+      "description": "A praia é um recanto de tranquilidade, bela paisagem e águas mornas que se separa dos grandes centros turísticos do norte da ilha por uma pequena estrada. É um local para visitação, para passar o dia com a família ou amigos, sentar-se confortavelmente na areia da praia, pois a larga faixa de areia permite que se encontre lugar para guarda-sóis e cadeiras, saborear os frutos do mar que chegam fresquinhos aos restaurantes 'pé-na-areia' e praticar esportes na areia. Há cultivo de ostras e mariscos na região. Por conta disso, barcos de pescadores compõem a paisagem junto à natureza.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/praia-do-forte.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28329.57229845775!2d-48.539396188344675!3d-27.431985029514756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527451d807cfdf5%3A0x8b368f79bc0d0038!2sPraia%20do%20Forte!5e0!3m2!1spt-BR!2sbr!4v1724289732896!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 12,
+      "title": "Praia do Santinho",
+      "description": "No norte de Florianópolis, ao lado da Praia dos Ingleses, fica a sofisticada e isolada Praia do Santinho. Conhecida pela prática do surf, a praia conta com ondas fortes, mar aberto e longa faixa de areia que, na sua parte mais ao norte, se transforma em longos campos de dunas. No Santinho, o moderno se encontra com a pré-história. É lá que está depositado um dos maiores acervos de arte rupestre em pedras de Florianópolis. Os trabalhos datam de mais de 5 mil anos.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/praia-do-santinho.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14160.963906905734!2d-48.38267424300568!3d-27.461756249059192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95276a436a02ceb3%3A0x44a2f95cb549eb11!2sPraia%20do%20Santinho!5e0!3m2!1spt-BR!2sbr!4v1724289757585!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 13,
+      "title": "Sambaqui",
+      "description": "A praia de Sambaqui é um tradicional vilarejo de pescadores que abriga, além de nativos, visitantes temporários, turistas e veranistas que procuram um lugar calmo e tranquilo para se estabelecer. De raízes açorianas, a comunidade local luta pela preservação de seus costumes e tradições, promovendo festas religiosas e incentivando grupos de danças folclóricas, montados e dançados pelos próprios membros da comunidade.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/Praia-do-Sambaqui.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4208.824225559132!2d-48.52910501267869!3d-27.494615091493003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527467b33feb5b3%3A0xf780abd27984dbd8!2sPraia%20do%20Sambaqui!5e0!3m2!1spt-BR!2sbr!4v1724289788717!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 14,
+      "title": "Santo Antônio de Lisboa",
+      "description": "Belas paisagens com um pôr-do-sol magnífico, uma excelente rota gastronômica e um passeio pela história da época do Brasil colonial é o que se pode esperar de uma visita à praia de Santo Antônio de Lisboa. Da beira da praia, avista-se a Baía Norte, o continente e a ponte Hercílio Luz. A freguesia, termo usado pelos colonizadores portugueses para designar pequenas vilas administrativas, conserva a arquitetura açoriana tradicional, os costumes herdados dos colonizadores e a tranquilidade das pequenas vilas do século XIX.",
+      "zone": "Norte da Ilha",
+      "image": "/assets/db/praias/santo-antonio.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3538.7518166584664!2d-48.52291458831402!3d-27.50809292619842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95274658b7a72fab%3A0xe40a3a6e5db45209!2sPraia%20de%20Santo%20Ant%C3%B4nio%20de%20Lisboa!5e0!3m2!1spt-BR!2sbr!4v1724289822240!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 15,
+      "title": "Barra da Lagoa",
+      "description": "Pelas ruas estreitas, travessas e vielas, bem características da cultura açoriana, chega-se à Praia da Barra da Lagoa, considerada o maior núcleo pesqueiro da Ilha de Santa Catarina, tendo capacidade para receber em média 50 embarcações. Uma comunidade tradicional, que ainda mantém viva as raízes culturais, como a pesca e a produção de trançados (tarrafa e renda). Conhecida pela cordialidade dos seus moradores nativos e as belezas naturais, a praia atrai inúmeros turistas na alta temporada. Muitos deles são estrangeiros, vindos da América do Norte e Europa, que vem à Barra também nos meses mais calmos de média temporada. Isso ocorre porque esta é a praia mais bem estruturada da Costa Leste durante o ano todo, dispondo de várias opções de hospedagem e alimentação. A pesca artesanal é bastante presente, o que garante uma fartura de pescados. Pode-se experimentar nos restaurantes ou até mesmo comprar fresquinho e cozinhar em casa.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/barra-da-lagoa.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14145.881915280932!2d-48.442824992140395!3d-27.578939768515312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273f97d95a7995%3A0xa2ad4910c9545a11!2sPraia%20da%20Barra%20da%20Lagoa!5e0!3m2!1spt-BR!2sbr!4v1724289888887!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 16,
+      "title": "Praia da Galheta",
+      "description": "A Praia da Galheta é a única praia da Ilha de Santa Catarina reservada especialmente para o naturismo. Totalmente virgem, é semideserta e está abrigada no Parque Natural Municipal da Galheta, sendo área de preservação permanente. O acesso à praia se dá somente por duas trilhas. Uma delas com saída pela costa norte da Praia Mole, que corresponde a 600 metros, e outra pela Praia da Barra da Lagoa, um caminho mais difícil e longo. Apesar de estar localizada entre duas das praias mais movimentadas da Ilha de Santa Catarina, Barra da Lagoa e Praia Mole, a Galheta atrai poucos turistas.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/galheta.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7072.065585008543!2d-48.43053961145246!3d-27.592512926820284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273e6fdbb3674f%3A0x8ae4ca56eddfe639!2sPraia%20da%20Galheta!5e0!3m2!1spt-BR!2sbr!4v1724289947054!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 17,
+      "title": "Lagoa da Conceição",
+      "description": "A Lagoa da Conceição, situada no centro geográfico da Ilha de Santa Catarina, é uma das principais atrações turística de Floripa. Ela reúne praias, dunas, montanhas e a maior laguna de Florianópolis. Com passado importante, foi a primeira 'freguesia' da cidade - termo usado pelos colonizadores portugueses para designar pequenas vilas administrativas - , fundada junto ao local que ainda hoje é um dos mais tradicionais, o centrinho da Lagoa da Conceição. Algumas construções da época colonial ainda permanecem preservadas no local, como a Igreja da Lagoa. Com tanta diversidade, o lugar tornou-se o ponto turístico natural mais conhecido da cidade. Múltiplas atividades e de naturezas distintas estão presentes na Lagoa. Os esportes náuticos invadem as suas águas. Piqueniques, caminhadas, passeio de pedalinho, stand ups, escunas e caiaques também fazem parte do cenário. Cultura, arte, música, gastronomia, esportes... Tudo reunido pela Lagoa, que está dividida em pequenas localidades como o Centrinho (antiga Freguesia), Canto da Lagoa, Canto dos Araçás, Sertão Grande, Ponta Grossa, Ponta das Almas,  Caieira, Costa da Lagoa, Porto da Lagoa, Morro do Badejo e Retiro da Lagoa.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/lagoa.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d371.62790659856705!2d-48.45787334266578!3d-27.607775073180168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273ea848636a4d%3A0x6f700ac19098c89d!2sLagoa%20da%20Concei%C3%A7%C3%A3o%2C%20Florian%C3%B3polis%20-%20SC!5e0!3m2!1spt-BR!2sbr!4v1724290016286!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 18,
+      "title": "Praia da Joaquina",
+      "description": "A Praia da Joaquina ou 'Joaca', como é apelidada pelos moradores, é a praia das 'altas' ondas. Geralmente muito frias, já foram dropadas (surfadas) por grandes nomes do surfe, sendo sede de campeonatos nacionais e até mundiais. Os eventos de surfe, realizados desde a década de 70, deram reconhecimento internacional à Joaquina. Assim como a vizinha Praia Mole, a Praia da Joaquina reúne a garotada jovem e esportista. Também é frequentada por famílias e várias excursões de turismo do Brasil e do exterior. No verão, as areias da Joaca se tornam palco de eventos, muitos deles esportivos. O aglomerado de rochas, situado à esquerda, chama a atenção pelo tamanho das pedras e beleza. Compensa acordar cedinho e esperar o nascer do sol, chamado por muitas pessoas de singular. Além da praia e do surfe, as dunas também são famosas, consideradas as melhores do sul do país. Lá se criou o sandboard, uma espécie de surfe, mas na areia. Hoje é a atração principal dos que não se arriscam a pegar ondas no mar.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/joaquina.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3534.836156561603!2d-48.45141518831055!3d-27.629590626128078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273c38419b2c05%3A0x48dfaa94905c943f!2sPraia%20da%20Joaquina!5e0!3m2!1spt-BR!2sbr!4v1724290045845!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 19,
+      "title": "Praia do Gravatá",
+      "description": "Situada entre a Mole e a Joaquina, a Praia do Gravatá é uma pequena praia pouco visitada. Muitos moradores nem conhecem ou sabem da sua existência. Com uma extensão de apenas 60 metros e uma faixa de areia entre 8 e 20 metros, a pequena baía é deserta, com exceção de um simples rancho de pescador. As pedras são cobertas de bromélias, conhecida popularmente como Gravatá. A planta é resistente e cheia de espinhos. No local, considerado um sítio arqueoastronômico, são encontradas pedras com marcações que datam da pré-história, as oficinas líticas, bem como megálitos, pedras que compõe um observatório pré-histórico com funções astronômicas, provas milenares da existência de antigos habitantes na região.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/gravata.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.3589707373953!2d-48.4336061!3d-27.613396899999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273dd17f08043b%3A0x9c22458ff0175f19!2sPraia%20do%20Gravat%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1724290079942!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 20,
+      "title": "Praia do Moçambique",
+      "description": "A Praia do Moçambique é a praia mais extensa de Florianópolis e uma das maiores de Santa Catarina. Os seus 13,5 km de areias claras e macias garantem uma beleza natural intocada. Faz parte do Parque Florestal do Rio Vermelho, uma reserva de aproximadamente 400 mil metros quadrados com vegetação predominante de pinus. Não há construção alguma no local e nem no caminho. A paisagem torna-se ainda mais deserta com as dunas, que cortam a linha entre a vegetação rasteira e o oceano.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/mocambique.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28312.386855050507!2d-48.4173257382174!3d-27.498871527020604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527400eb6e86da1%3A0xa9bd79eefcc8023b!2sPraia%20do%20Mo%C4%AFambique!5e0!3m2!1spt-BR!2sbr!4v1724290107047!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 21,
+      "title": "Praia Mole",
+      "description": "Muito surf. Paquera. Agito. Esporte. Esse é o espírito que parece envolver a Praia Mole e os seus frequentadores, em Florianópolis. Lugar de badalação, corpos atléticos, geração saúde e galera jovem. Os praticantes de parapente aproveitam as encostas como rampa de decolagem. O lado esquerdo, em direção ao costão norte e à Praia da Galheta, é considerado o point da paquera LGBT. O carnaval também é famoso, com festas rolando sem parar. Há bares por toda a orla; alguns têm música ao vivo. O melhor é que nem precisa estar nas dependências do bar para curtir o som da banda ou DJ, ali mesmo com o pé na areia dá para ouvir e até fazer os pedidos do cardápio. No verão, um suco natural, uma tigela de açaí ou uma cerveja bem gelada aliviam o calor do sol. No inverno, é legal caminhar e curtir a praia, isso em dias que não bate o vento sul. O surfe é perfeito o ano todo.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/mole.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14142.843766736556!2d-48.446428342129174!3d-27.60248996829712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273e7c21378ba7%3A0xa317ef29d5487b28!2sPraia%20Mole%2C%20Florian%C3%B3polis%20-%20SC!5e0!3m2!1spt-BR!2sbr!4v1724290136251!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 22,
+      "title": "Prainha da Barra da Lagoa",
+      "description": "A Prainha da Barra da Lagoa, como é comumente chamada, também é conhecida como Prainha do Leste. Passando a ponte do Canal da Barra da Lagoa, pega-se uma pequena trilha um pouco íngreme, estreita e irregular, que vai até a Prainha. Com apenas 70m de extensão, é muito famosa pelo samba que ocorre todo sábado no único restaurante/bar dali. A praia é virada para o Oceano Atlântico e tem características de praia de mar alto, mas suas ondas apesar de altas, são brandas, por causa do desenho de sua costa, não sendo visada para o surf. Mas tem gente que joga futebol, curte a praia e até mesmo faz luau.",
+      "zone": "Leste da Ilha",
+      "image": "/assets/db/praias/prainha-da-barra-da-lagoa.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.6224516244583!2d-48.423642023874045!3d-27.57422547625905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273e47b4698647%3A0x1c66b100df83e374!2sPrainha%20da%20Barra!5e0!3m2!1spt-BR!2sbr!4v1724528263341!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 23,
+      "title": "Lagoinha do Leste",
+      "description": "Praia, costões, lagoa, cachoeira e mata nativa. Esses ingredientes estão todos juntos na Lagoinha do Leste, que esconde seu encanto entre os morros do Sul da Ilha de Santa Catarina. Há três modos de se chegar à praia, por duas trilhas e por barco. A melhor maneira de chegar à Lagoinha do Leste é a pé por trilha. De carro é impossível, não há estrada. Pode-se também ir pelo mar, com desembarque precário por conta da rebentação. Os barcos que fazem este trajeto são de pescadores do local, que levam e buscam turistas durante o verão. Eles saem do Pântano do Sul e levam cerca de quinze minutos. Essa relativa dificuldade de acesso tem servido, ao longo do tempo, como escudo protetor do lugar.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/lagoinha-leste.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14120.657575252655!2d-48.50395079385697!3d-27.773908374718097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95272404e8c3831d%3A0xae98a7e840abda50!2sPraia%20da%20Lagoinha%20do%20Leste!5e0!3m2!1spt-BR!2sbr!4v1724528298989!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 24,
+      "title": "Praia do Morro das Pedras",
+      "description": "A Praia do Morro das Pedras é vizinha da Praia do Campeche. Menos movimentada e com uma comunidade nativa, chama a atenção pelas pedras que a cercam no seu lado direito. Por não ter divisões geográficas, essa praia possui uma única faixa de areia, passando pela Praia do Campeche até a Praia da Joaquina, o que faz as três praias terem características parecidas. Dá para sair andando pelas areias da 'Joaca' (Praia da Joaquina), passar pelo Campeche e chegar ao Morro das Pedras, ou vice e versa, em uma longa e agradável caminhada pela areia dessas praias.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/morro-das-pedras.jpg",
+      "surf": true,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14129.711076958067!2d-48.502895834086374!3d-27.70407576894838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952724b5494ff3a7%3A0x3e370a072f8cc017!2sPraia%20do%20Morro%20das%20Pedras!5e0!3m2!1spt-BR!2sbr!4v1724528338003!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 25,
+      "title": "Praia do Pântano do Sul",
+      "description": "A Praia do Pântano do Sul é a mais tradicional praia de pesca de Santa Catarina, com ricas colônias de pescadores. Na região, ainda ocorrem cercos de tainha com arrastões. Além da pesca de cação-mangona, também encontram-se peixes finos como garoupa, pijareba, robalo e lagosta. Com boas opções de restaurantes, a praia do Pântano do Sul é especialista em frutos do mar. Autênticos manezinhos da ilha são moradores do local, que convivem com turistas que procuram um lugar mais tranquilo para passar as férias.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/Pantano-do-Sul.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7059.791895379259!2d-48.51631315416403!3d-27.782180104558694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527242f7337134b%3A0x17543c3c2d3c7cba!2sPraia%20do%20P%C3%A2ntano%20do%20Sul!5e0!3m2!1spt-BR!2sbr!4v1724528413099!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 26,
+      "title": "Praia dos Açores",
+      "description": "A Praia dos Açores, encravada entre a Praia do Pântano do Sul e a Praia da Solidão, é uma praia tranquila, bem o estilo para os que curtem um sossego. Não há divisão geográfica com a praia do Pântano do Sul, o que faz a praia ficar bem extensa. É o balneário mais bem planejado do extremo sul da Ilha de Santa Catarina. Da praia, é possível ver as Ilhas Três Irmãs e a Moleques do Sul. Para completar, os morros do Pântano, da Costa de Dentro, do Trombudo e do Córrego dos Naufragados cercam o local, oferecendo para os amantes da natureza trilhas ecológicas em meio à Mata Atlântica preservada.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/acores.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.8461472034737!2d-48.52624952386775!3d-27.783714376138917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952725cdfff12671%3A0x67bc7bfdaa288a90!2sPraia%20dos%20A%C3%A7ores!5e0!3m2!1spt-BR!2sbr!4v1724528450735!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 27,
+      "title": "Praia da Armação",
+      "description": "O clima de pequena vila ainda cerca a Praia da Armação, localizada a 22 km do centro de Florianópolis. O local é um dos principais núcleos de pesca artesanal da ilha, com várias comunidades pesqueiras explorando o mar. Junto com Campeche e Pântano do Sul, forma o maior complexo pesqueiro da cidade. A antiga Igreja de Sant’Ana ainda é o núcleo centralizador da região, fato que ocorre desde a época da caça de baleias no século XVIII. Convivendo com esta pitada de antiguidade, estão bares, restaurantes, empresas de turismo e surfistas.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/armacao.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14124.530859844248!2d-48.526293793938514!3d-27.744052275594807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527245eea439c69%3A0x9fd377158809dc79!2zUHJhaWEgZGEgQXJtYcOnw6Nv!5e0!3m2!1spt-BR!2sbr!4v1724528481915!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 28,
+      "title": "Praia da Solidão",
+      "description": "Um refúgio retirado e escondido, procurado pela sua beleza e tranquilidade. Esta é a praia que, a partir da década de 60, por todos estes motivos, passou a ser chamada de Praia da Solidão. Chamada pelos mais antigos de Praia do Rio das Pacas, a Solidão é uma pequena enseada entre a Costa de Dentro e o Saquinho, local onde as pacas eram abundantes. Hoje, a praia é considerada uma das mais belas paisagens de Santa Catarina por ser um paraíso quase que intocado.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/solidao.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.554435342016!2d-48.53500262386749!3d-27.792699976133772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527255939d16fb5%3A0xd706b2bb89e19652!2sPraia%20da%20Solid%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1724528522383!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 29,
+      "title": "Praia do Campeche",
+      "description": "Com três quilômetros e meio de extensão, a Praia do Campeche é muito frequentada por surfistas e kitesurfistas, devido às características do mar e vento, e pela galera jovem, principalmente na região do Riozinho. As areias do Campeche também recebem várias famílias por conta da grande disponibilidade de hospedagem e do acelerado crescimento populacional pelo qual o bairro tem passado nos últimos anos. Isso torna o Campeche uma das praias mais ecléticas e democráticas da Ilha.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/ilha-do-campeche-florianopolis.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28270.744278266124!2d-48.486731071274434!3d-27.660327677385215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273b59b15ad603%3A0xa6960fe1fa689f33!2sPraia%20do%20Campeche!5e0!3m2!1spt-BR!2sbr!4v1724528550950!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 30,
+      "title": "Praia do Saquinho",
+      "description": "A Praia do Saquinho está localizada no sul da Ilha de Santa Catarina. Voltada para o oceano atlântico, é uma praia quase intocada, de beleza exuberante e destino obrigatório para aqueles que gostam de aventura, privacidade e natureza. Situada entre as praias da Solidão e de Naufragados, seu acesso é feito através de uma trilha que começa no final da via que dá acesso à Praia da Solidão,  poucos metros após cruzar a ponte sobre o Rio das Pacas. O início da trilha do Saquinho é inclinado e bem marcado, com uma espécie de 'trilho central' feito em concreto.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/saquinho.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7059.067396202407!2d-48.54372687294123!3d-27.79333864354212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952725df242eaa21%3A0xebae503b75ae490f!2sPraia%20do%20Rio%20das%20Pacas!5e0!3m2!1spt-BR!2sbr!4v1724528623578!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 31,
+      "title": "Praia do Matadeiro",
+      "description": "Não há carros, ônibus, hotéis, cambistas nem barulho de cidade na Praia do Matadeiro. Não há nada além de banhistas, comunidades pesqueiras, surfistas, famílias, restaurantes à beira-mar e natureza, muita natureza. A Praia do Matadeiro é destino de quem gosta de apreciar praias da forma como elas nasceram, apenas água, areia e árvores. Este recanto natural recebe turistas que procuram sossego e alguns poucos moradores, cujo estilo de vida não passa perto de barulho excessivo ou poluição. As águas são limpas e cristalinas, mas com ondas bravias e forte repuxo, o que demanda atenção de banhistas.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/matadeiro.jpg",
+      "surf": true,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3530.796776117271!2d-48.50055752386864!3d-27.75441357615571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527245d59dd9e35%3A0xf0ab0a491ca782bd!2sPraia%20do%20Saco%20do%20Matadouro!5e0!3m2!1spt-BR!2sbr!4v1724528648574!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 32,
+      "title": "Praia de Naufragados",
+      "description": "No extremo sul da ilha, antes de as águas do mar tomarem conta da paisagem, uma última praia guarda mistérios históricos, ruínas de edificações de outros séculos e a natureza praticamente virgem. É a Praia de Naufragados, onde só é possível chegar por trilha ou barco. A praia conta apenas com a natureza e alguns bares de moradores locais, que servem bebidas e pratos típicos de pescadores a turistas que passam o dia lá. Não há carros, barulho de cidade ou poluição. A praia tem areia branca e ondas que vêm diretamente do oceano, sendo bastante bravias e frias na maior parte do ano. Não é um local muito recomendado para crianças, pois não há salva-vidas para prestar atendimento rápido em casos de emergência.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/naufragados.jpg",
+      "surf": false,
+      "trail": true,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3528.2177214679377!2d-48.565916473866515!3d-27.83384062611027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527289c60cbca11%3A0x6397717c08a8e817!2sPraia%20Naufragados!5e0!3m2!1spt-BR!2sbr!4v1724528678908!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 33,
+      "title": "Ribeirão da Ilha",
+      "description": "Pequenas praias com águas calmas e areia grossa compõe a Praia do Ribeirão da Ilha. Na orla do centrinho da antiga freguesia e ao redor da praça da igreja, a arquitetura dos séculos XVIII e XIX é preservada. E com o desenvolvimento, veio a expansão do setor gastronômico e turístico. Freguesia do Ribeirão da Ilha A Freguesia do Ribeirão da Ilha foi o segundo distrito a se desenvolver na época colonial na Ilha de Santa Catarina, quando o bairro do Centro de Florianópolis era a antiga Vila de Nossa Senhora do Desterro. Os hábitos e os traços da cultura, herdada dos açorianos, se mantêm vivos nos moradores mais antigos, apesar do crescimento urbano. É por conta desta preservação que Florianópolis é considerada a décima ilha do arquipélago dos Açores e a região do Ribeirão da Ilha é um grande objeto de estudo sobre o povo que habitou as ilhas do arquipélago dos Açores.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/ribeirao-da-ilha.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.863429278642!2d-48.56674917386965!3d-27.721502676174413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527300f30b10811%3A0x14da81a5077c70b3!2sPraia%20do%20Ribeir%C3%A3o%20da%20Ilha!5e0!3m2!1spt-BR!2sbr!4v1724528720581!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 34,
+      "title": "Praia da Tapera",
+      "description": "Frequentada principalmente por famílias locais, em busca de sol e espaço para as crianças brincarem, a Praia da Tapera é a atração para os moradores do bairro e das proximidades. Tem pequena extensão, aproximadamente 520 metros, com uma faixa de areia estreita, grossa e em tom amarelado. As águas são calmas e mornas, bem transparentes em dias de vento sul, apesar do fundo do mar ser lodoso e repleto de pequenas conchas. Para os que desejam se aventurar, bem próximo ao litoral há duas ilhas: Dona Francisca, também conhecida como Ilha das Flechas, e a Ilha das Laranjeiras.",
+      "zone": "Sul da Ilha",
+      "image": "/assets/db/praias/tapera.jpg",
+      "surf": false,
+      "trail": false,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14132.621190656286!2d-48.572623057209846!3d-27.681594670136537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527308e4b8b9f47%3A0x4cf51a89704d2f05!2sPraia%20da%20Tapera!5e0!3m2!1spt-BR!2sbr!4v1724528760183!5m2!1spt-BR!2sbr"
+    }
+  ],
+  "trilhas": [
+    {
+      "id": 1,
+      "title": "Trilha das piscinas naturais da Barra da Lagoa",
+      "description": "Esta pequena trilha é de intensidade leve e dura aproximadamente 15 minutos, sendo ideal para pessoas de todas as idades e habilidades. O caminho fica na Barra da Lagoa, entre a Praia da Galheta e a Prainha da Barra. A trilha foi revitalizada há pouco tempo e conta com um deck na entrada e nas oficinas líticas, com uma bela vista para o mar. Saindo da trilha, você finalmente chegará nas piscinas naturais, com águas calmas e cristalinas. Vale muito a pena! Dica da laranjinha: vá com tênis adequados, leve uma garrafinha de água e protetor solar. Ah, e cuidado! Nas piscinas naturais, não há faixa de areia, portanto, para entrar na água, é preciso pular das pedras. Não faça isso se você não sabe nadar ou não tem experiência com o mar.",
+      "duration": "15 minutos",
+      "image": "/assets/db/trilhas/piscinas-lagoa.jpg",
+      "level": 1,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.593375835853!2d-48.424963475999085!3d-27.5751274830217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273f0065821a0b%3A0x45fe8b5bcea7792d!2sTrilha%20das%20piscinas%20naturais!5e0!3m2!1spt-BR!2sbr!4v1724528811289!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 2,
+      "title": "Trilha do Morro das Aranhas",
+      "description": "Essa trilha começa na Praia do Santinho, próximo ao resort Costão do Santinho, e termina na Praia do Moçambique. A caminhada tem 2.200 metros de extensão e dura cerca de 1 hora. O desafio é de dificuldade média, já que a trilha conta com pontos de desníveis, inclinações, pedras, lama, trechos com mata fechada e exige apoios para as mãos. Por isso, não leve crianças ou pessoas idosas para essa aventura. Você pode optar por dois caminhos diferentes: seguir em linha reta, até a Praia de Moçambique, ou subir morro acima até o Mirante do Morro das Aranhas. Do mirante, é possível ter uma vista incrível do Rio Vermelho, da Praia dos Ingleses, da Ilha das Aranhas e da Praia do Santinho. Lembre-se de levar muita água, roupas leves e mochila com pouco peso.",
+      "duration": "1 hora",
+      "image": "/assets/db/trilhas/aranhas.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14160.602752393857!2d-48.39151373419944!3d-27.46456772115869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95276a5e5c27b9b1%3A0x97ef58c7e8db39e4!2sTrilha%20do%20Morro%20das%20Aranhas!5e0!3m2!1spt-BR!2sbr!4v1724528881583!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 3,
+      "title": "Trilha da Lagoinha do Leste",
+      "description": "A Praia da Lagoinha do Leste é considerada por muitos como a mais bonita de Florianópolis. Com águas azuis claras e uma lagoa próxima ao costão esquerdo, esse recanto natural atrai diversos turistas todos os anos. Para chegar lá, é preciso ir de barco ou fazer uma trilha. A caminhada começa na Praia do Matadeiro, e na volta, é possível ir pelo Pântano do Sul. O nível de dificuldade é difícil, pois o trecho conta com subidas íngremes e mata fechada, durando cerca de 1 hora e 30 minutos. No meio da trilha, você vai se deparar com córregos e paisagens de tirar o fôlego. Na volta, o percurso pelo Pântano do Sul é mais fácil e leve, durando apenas 50 minutos. Dica da laranjinha: aproveite para começar o passeio no turno da manhã, assim, você terá mais tempo para aproveitar a praia à tarde. Vá de tênis, mas leve roupa de banho, protetor solar e chapéu, welover!",
+      "duration": "50 minutos",
+      "image": "/assets/db/trilhas/lagoinha.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7060.611687869144!2d-48.491006344556816!3d-27.769548907444854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952725b736a6c6ab%3A0xd91ed8d8c297f2f2!2sTrilha%20Lagoinha%20do%20Leste%20-%20Matadeiro!5e0!3m2!1spt-BR!2sbr!4v1724528912313!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 4,
+      "title": "Caminho Naufragados",
+      "description": "A Trilha dos Naufragados dá acesso até a Praia de Naufragados, um refúgio cercado de Mata Atlântica preservada, mergulhado em um mistério histórico devido ao naufrágio de duas embarcações portuguesas em 1753. O local isolado oferece um ambiente sossegado, longe da agitação central da cidade. O trecho tem um nível de dificuldade fácil e dura apenas 40 minutos. Ele passa por um túnel de vegetação nativa, além de ruínas de um engenho do século passado, cachoeiras e saguis. Ao final do caminho, você encontrará uma igrejinha e diversas casas de moradores. Aproveite para dar uma volta e desbravar a região. Uma segunda trilha leva você até um pequeno farol, no alto de um morro, construído em 1861. Ela dura apenas 20 minutos e, no meio do passeio, você pode apreciar paisagens magníficas.",
+      "duration": "40 minutos",
+      "image": "/assets/db/trilhas/trilha-naufragados.jpg",
+      "level": 1,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2495.028496060031!2d-48.56240090184476!3d-27.82506094290366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527289d1cc6a04f%3A0x6a8af76d554eb1f3!2sCaminho%20dos%20Naufragados%20-%20Ribeir%C3%A3o%20da%20Ilha%2C%20Florian%C3%B3polis%20-%20SC!5e0!3m2!1spt-BR!2sbr!4v1724528950177!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 5,
+      "title": "Trilha da Ilha do Campeche",
+      "description": "A Ilha do Campeche é uma das jóias mais brilhantes de Floripa, considerada por muitos o Caribe brasileiro. Ela oferece diversas atividades, e entre elas, estão inúmeras trilhas. Para chegar na ilha, pegue um barco na Praia da Armação e faça a travessia. Verifique os horários e os preços das passagens nos sites oficiais. A trilha leva você para conhecer os sítios arqueológicos com inscrições rupestres, que remontam a milhares de anos de história e cultura da região. Além disso, você vai passar por formações rochosas e praias de beleza única. O nível de dificuldade do caminho é médio. Alguns pontos dos trechos podem ser escorregadios, devido à umidade; portanto, tome cuidado.",
+      "duration": "Entre 01h e 2h30",
+      "image": "/assets/db/trilhas/trilha-campeche.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7065.561710480725!2d-48.47003659832399!3d-27.693167282149165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273da9dbd0c6db%3A0x6a85860a7fbee592!2sTrilha%20da%20Volta%20Norte!5e0!3m2!1spt-BR!2sbr!4v1724528989683!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 6,
+      "title": "Trilha do Gravatá",
+      "description": "Essa trilha oferece aos aventureiros uma jornada revigorante e repleta de natureza, levando até a Praia do Gravatá, onde há uma pequena colônia de pescadores. Esse cantinho escondido é pouco conhecido e fica entre as badaladas Praia da Joaquina e Praia Mole. O início da caminhada fica na Barra da Lagoa e dura apenas 30 minutos. O nível de dificuldade é fácil, o que torna o trecho ideal para famílias. Chegando no topo do morro, você poderá vislumbrar o local onde muitas pessoas pulam de parapente e colorem os céus da praia. Dica da laranjinha: faça a trilha bem cedinho, pois ao amanhecer, algumas lontras costumam aparecer na Praia do Gravatá, proporcionando momentos de diversão para as crianças e turistas.",
+      "duration": "30 minutos",
+      "image": "/assets/db/trilhas/gravata-trilha.jpg",
+      "level": 1,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7071.096885789852!2d-48.45006912229002!3d-27.607526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273e7cc29a38b7%3A0xb224df1d904a9a32!2sTrilha%20Praia%20do%20Gravat%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1724529018894!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 7,
+      "title": "Caminho do Morro das Feiticeiras",
+      "description": "Essa é uma das trilhas mais famosas e procuradas em Florianópolis, já que ela é oficialmente parte do Caminho Brasileiro de Santiago de Compostela. Esse trecho inicia na Praia Brava e vai até a Praia dos Ingleses. Tem 2.000 metros de extensão e dura cerca de 45 minutos, portanto, o nível de dificuldade é fácil. Há sombra durante todo o trajeto e degraus que facilitam a jornada dos trilheiros. Chegando na Praia dos Ingleses, aproveite para passear pela orla e visitar a Igreja de Nossa Senhora dos Navegantes. Termine o passeio refrescando-se no mar, é claro!",
+      "duration": "45 minutos",
+      "image": "/assets/db/trilhas/feiticeiras.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14167.606756034918!2d-48.41817568686143!3d-27.409996365091736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952743b24372106f%3A0x59c4194ce711e585!2sTrilha%20Morro%20das%20Feiticeiras!5e0!3m2!1spt-BR!2sbr!4v1724529065181!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 8,
+      "title": "Trilha da Cachoeira da Solidão",
+      "description": "Esse caminho incrível leva você até a Cachoeira da Solidão: um cantinho no meio da Mata Atlântica com uma piscina natural e cristalina de águas geladas, ideal para mergulhar e relaxar em dias quentes. O local fica no extremo sul da ilha, próximo à Praia da Solidão. A trilha tem apenas 400 metros de extensão e é de intensidade leve. Inicie o trajeto na praia e, após a ponte, siga à direita entre as casas. A partir daí, suba morro acima. Chegando lá, tenha cuidado, pois além da cachoeira, há um poço muito profundo que não deve ser acessado se você não sabe nadar.",
+      "duration": "15 minutos",
+      "image": "/assets/db/trilhas/cachoeira-solidao.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.486520405909!2d-48.539158623867614!3d-27.79479157613256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952725bcb5374c95%3A0x3d7c0ca1d1fb8961!2sAcesso%20trilha%20Cachoeira%20da%20Solid%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1724529095113!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 9,
+      "title": "Trilha da Praia do Saquinho",
+      "description": "A Praia do Saquinho é um pequeno refúgio isolado, entre as praias da Solidão e Naufragados. Ali vive uma comunidade pequena, de cerca de 20 famílias, e não há eletricidade, nem estradas. No entanto, a paisagem é uma das mais vívidas da cidade, com costões e mata conservada. O caminho começa na Praia da Solidão e tem 1,3 quilômetro de extensão. É uma trilha curta e simples de fazer, mas prepare o seu fôlego, pois a subida pode ser um pouco cansativa. Chegando no topo do morro, o esforço compensa: lá há um mirante chamado Pedra da Vigia onde você pode observar baleias, golfinhos e ter uma bela vista da paisagem. Ao final do percurso, você chegará no Bar do Quirino, uma casinha especial que vale a pena visitar. No almoço, há pescados frescos e saborosos, acompanhados de arroz e batata. Então, aproveite para forrar o estômago depois do exercício físico!",
+      "duration": "",
+      "image": "/assets/db/trilhas/saquinho-trilha.jpg",
+      "level": 1,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14117.679910871722!2d-48.5542518937943!3d-27.796840774045588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952725d3668e8923%3A0xea23afb5d61834c9!2sTrilha%20do%20Saquinho!5e0!3m2!1spt-BR!2sbr!4v1724529123888!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 10,
+      "title": "Trilha da Boa Vista",
+      "description": "Essa é mais uma trilha que inicia na Barra da Lagoa e leva você até um paraíso de águas azuis límpidas para um banho fresquinho. Ela termina na Praia da Galheta e oferece uma vista espetacular do leste da Ilha da Magia. O percurso dura 1 hora e 30 minutos, mas apesar de longo, é considerado fácil. No meio do trecho, você encontrará um mirante com pedras de onde é possível ver ao longe a Praia da Galheta, a Praia Mole e a Lagoa da Conceição. Dica da laranjinha: a vegetação do caminho é baixa, esparsa e tem plantas rasteiras com espinhos. Por isso, não deixe de levar protetor solar, água e usar roupas fechadas para proteger a pele.",
+      "duration": "1 hora e 30 minutos",
+      "image": "/assets/db/trilhas/boa-vista.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11895.030757206128!2d-48.42657299068879!3d-27.58069771635736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273e41b757646d%3A0x6ce0d6c54c39a858!2sTrilha%20da%20Boa%20Vista%20e%20Galheta!5e0!3m2!1spt-BR!2sbr!4v1724529158346!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 12,
+      "title": "Vale da Utopia",
+      "description": "O Vale da Utopia fica no município de Palhoça, há 38 quilômetros de Florianópolis. Existem duas trilhas que você pode fazer: uma mais longa que inicia na Praia da Guarda do Embaú e uma curtinha que começa na Praia da Pinheira. Ambos os caminhos têm intensidade leve, mas o trecho mais longo exige um certo preparo físico, pois são 4 quilômetros de percurso e 1 hora e 30 minutos de duração. Muitos trilheiros ousados fazem trekking para se aventurar ainda mais. Já a opção que tem início na Praia da Pinheira, leva em torno de 20 minutos para ser finalizada. O Vale da Utopia oferece um ambiente roots que atrai diversos turistas e comunidades hippies que buscam entrar em contato com a natureza e acampar por ali. Se você curte esse tipo de programação, welover, não perca essa oportunidade.",
+      "duration": "1 hora e 30 minutos",
+      "image": "/assets/db/trilhas/vale-da-utopia.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14106.007743445338!2d-48.590800380308345!3d-27.88656628699051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9526d7d2cdae39ed%3A0x3cea3fec7f0bf5aa!2sTrilha%20Praia%20do%20Ma%C3%A7o%20Vale%20da%20Utopia!5e0!3m2!1spt-BR!2sbr!4v1724529203722!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 14,
+      "title": "Trilha do Morro do Lampião",
+      "description": "O Campeche é um dos bairros queridinhos de Floripa, e lá, você pode aproveitar para fazer uma caminhada revigorante pelo Morro do Lampião e ainda subir na Pedra do Urubu. A trilha é de intensidade leve e inicia na Rua Pau de Canela, seguindo por uma estrada de areia que vira à direita. Ela tem 1,3 quilômetro e pode ser feita em 40 minutos. Aproveite para levar a criançada para essa aventura! Se você quiser subir na Pedra do Urubu, terá que escalar por uma corda, então tome cuidado. No entanto, vale a pena, pois o visual do topo é incrível.",
+      "duration": "40 minutos",
+      "image": "/assets/db/trilhas/lampiao.jpg",
+      "level": 1,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7066.993520004793!2d-48.49576574169235!3d-27.67103746335183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273b76ae00b943%3A0x9ee59bbe1e15e7a4!2sMorro%20do%20Lampi%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1724529300157!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 15,
+      "title": "Trilha do Morro dos Ingleses",
+      "description": "O Morro dos Ingleses fica entre a Praia do Santinho e a Praia dos Ingleses, portanto, é possível começar a trilha em qualquer um desses extremos. O trajeto dura em torno de 1 hora e 30 minutos e tem intensidade moderada. Ao fazer o acesso pela Praia do Santinho, você pode caminhar pela faixa de areia e pelas dunas até chegar no início do morro. Do topo, há uma vista incrível do mar e da vegetação. E tudo fica mais impressionante ainda se você subir no Mirante do Cristo, um espaço muito legal com uma pequena estátua que imita o Cristo Redentor.",
+      "duration": "1 hora e 30 minutos",
+      "image": "/assets/db/trilhas/morro-ingleses.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11910.100867463745!2d-48.37684069607563!3d-27.441408642235366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95276b8cb85b5779%3A0x8b3edbd6e02bcbf1!2sTrilha%20Morro%20dos%20Ingleses!5e0!3m2!1spt-BR!2sbr!4v1724529333514!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 16,
+      "title": "Trilha do Morro do Forte",
+      "description": "Também conhecida por muitos como Trilha da Cruz, esse percurso é um ótimo passeio para quem deseja conhecer duas praias de uma só vez. O Morro do Forte separa a Praia do Forte, a Praia da Daniela e a Praia de Jurerê, oferecendo um visual inigualável delas. O início do caminho fica no alto da via Servidor José Cardoso de Oliveira, onde há uma escadaria e uma cruz. O trecho é bem aberto, demarcado e curto, o que torna essa trilha fácil e tranquila. Durante o trajeto, você vai encontrar alguns mirantes de onde poderá apreciar as belezas de Floripa, avistando a Praia da Daniela e os municípios de Governador Celso Ramos e Biguaçu.",
+      "duration": "",
+      "image": "/assets/db/trilhas/morro-forte.jpg",
+      "level": 2,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3541.0827290298002!2d-48.51941802387801!3d-27.435532376339413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95274515c154c69f%3A0xe6b937b57ad89b9d!2sTrilha%20da%20Cruz%20-%20Morro%20do%20Forte!5e0!3m2!1spt-BR!2sbr!4v1724529364757!5m2!1spt-BR!2sbr"
+    }
+  ],
+  "turismo": [
+    {
+      "id": 1,
+      "title": "Ponte Hercílio Luz",
+      "description": "A Ponte Hercílio Luz é um verdadeiro ícone de Florianópolis, a capital catarinense, e um dos mais incríveis atrativos turísticos da cidade. Com uma história de mais de 90 anos, essa obra-prima da engenharia é um tesouro arquitetônico e um símbolo da riqueza cultural e histórica da região.",
+      "image": "/assets/db/p-turisticos/ponte.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14143.965710665336!2d-48.58374329434759!3d-27.593795380027217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952737f3a902cdc7%3A0x1aa7dec706ee183a!2sPonte%20Herc%C3%ADlio%20Luz!5e0!3m2!1spt-BR!2sbr!4v1724529418152!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 2,
+      "title": "Mercado Público de Florianópolis",
+      "description": "Patrimônio artístico, histórico e arquitetônico o Mercado Público de Florianópolis é um dos principais pontos turísticos da cidade. Conheça o maior ponto de encontro da ilha de Santa Catarina.",
+      "image": "/assets/db/p-turisticos/mercado-publico.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.881631460742!2d-48.55526342387329!3d-27.597199176246004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527382413d70529%3A0x5ed250f064e1c9a!2sMercado%20P%C3%BAblico%20de%20Florian%C3%B3polis!5e0!3m2!1spt-BR!2sbr!4v1724529452506!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 3,
+      "title": "Praça XV de Novembro",
+      "description": "A Praça XV de Novembro, também chamada popularmente apenas como Praça XV ou ainda Praça da Figueira, é uma praça situada no bairro Centro, na cidade de Florianópolis. Ela fica no local onde foi fundada a cidade, tendo partido dali a povoação da então Vila de Nossa Senhora do Desterro.",
+      "image": "/assets/db/p-turisticos/praca.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28287.053450158128!2d-48.573288071458954!3d-27.597197632202313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273824de086fe3%3A0x680ffbe44883ee8f!2sPra%C3%A7a%20XV%20de%20Novembro!5e0!3m2!1spt-BR!2sbr!4v1724529480220!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 4,
+      "title": "Museu Histórico de Santa Catarina - Palácio Cruz e Sousa",
+      "description": "O Palácio Cruz e Sousa, antigo Palácio Rosado, é a sede do Museu Histórico de Santa Catarina (MHSC) desde 1986, e está localizado no Centro de Florianópolis, no estado de Santa Catarina, em frente à principal praça da cidade, a Praça XV de Novembro, tendo servido como Palácio do Governo do Estado.",
+      "image": "/assets/db/p-turisticos/palacio-cruz-e-souza.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.897641379812!2d-48.55258682387338!3d-27.59670287624616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273830492fb1af%3A0xbec8c5bb4bd5704!2sMuseu%20Hist%C3%B3rico%20de%20Santa%20Catarina%20-%20Pal%C3%A1cio%20Cruz%20e%20Sousa!5e0!3m2!1spt-BR!2sbr!4v1724529501437!5m2!1spt-BR!2sbr"
+    },
+    {
+      "id": 5,
+      "title": "Fundação Projeto TAMAR Florianópolis",
+      "description": "A Fundação Projeto TAMAR trabalha na conscientização e educação ambiental de visitantes, comunidades e pescadores. O Centro de Visitantes de Florianópolis conta com infraestrutura que inclui cinco tanques de observação com exemplares de quatro das cinco espécies de tartarugas marinhas que desovam no Brasil, sala de vídeo e exposições, espaço infantil e loja para venda de produtos TAMAR.",
+      "image": "/assets/db/p-turisticos/tamar.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.6891867367335!2d-48.43034482387418!3d-27.572155076260458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95273e4e2f3c6871%3A0xd45d57c3859522af!2sFunda%C3%A7%C3%A3o%20Projeto%20TAMAR%20Florian%C3%B3polis!5e0!3m2!1spt-BR!2sbr!4v1724529522723!5m2!1spt-BR!2sbr"
+    }
+  ]
+}
