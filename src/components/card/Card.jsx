@@ -9,7 +9,7 @@ const Card = ({ resource }) => {
   const [modalData, setModalData] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:3000/${resource}`)
+    fetch(`https://mais-floripa-server.vercel.app/${resource}`)
       .then((Response) => Response.json())
       .then((data) => setData(data))
       .catch((error) => console.error("Error fetching data", error));
